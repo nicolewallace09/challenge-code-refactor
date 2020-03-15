@@ -1,3 +1,5 @@
+/* BODY */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +10,8 @@ body {
     background-color: #d9dcd6;
     font-size: 16px;
 }
+
+/* BODY ENDS */
 
 /* HEADER */ 
 
@@ -51,6 +55,8 @@ a {
 
 /* HEADER ENDS*/
 
+/* HERO */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,6 +75,8 @@ a {
     float: right;
     margin-left: 25px;
 }
+
+/* HERO ENDS */
 
 /* CONTENT SECTION */
 
