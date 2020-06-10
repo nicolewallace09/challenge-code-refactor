@@ -1,14 +1,35 @@
-# challenge-code-refactor
-Challenge 1
+# Code Refactor 
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-Optimizing code for search engines <br />
-CSS selectors/properties are consolidated and semantic <br />
-Links are functional <br />
+## Description 
+This project's purpose was to refactor a webpage so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines. 
 
-Screenshots:<br />
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+## Installation 
+No installation needed. 
+
+## Usage 
+This is not a function application. It is for test purposes.<br>
+Please view deployed Git Hub [URL](https://nicolewallace09.github.io/challenge-code-refactor/)
 <img src="./assets/images/Website-1.png">
 <img src="./assets/images/Website-2.png">
 
-URL:<br />
-https://github.com/nicolewallace09/challenge-code-refactor<br >
-https://nicolewallace09.github.io/challenge-code-refactor/
+
+## License 
+This project is license under MIT
+
+## Contributing 
+Contributors should read the installation section. 
+
+## Tests
+There are no tests for this application. 
+
+## Questions
+If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
